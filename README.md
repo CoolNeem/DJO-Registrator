@@ -3,15 +3,15 @@ De Registrator registreert kinderen bij DJO
 
 ###Ideeen:
  * Naam intypen
-  - Selecteer eerst de eerste letter, dan de naam, bij dezelfde namen ook geboortedatum
-  
-###Afgevallen ideeen:
+  - Grote lijst, zelfde namen, makkelijk verkeerde naam aantikken
  * Vinger afdruk
   - Werkt niet bij pleisters of iets dergelijks, makkelijk breekbaar
  * code bijv:13002
   - code vergeten
  * Handtekening met tekentablet
   - kan aan Arduino?, vergeten of nog niet
+  
+###Afgevallen ideeen:
  * iris scan
   - heel erg moeilijk (misschien onmogelijk)
  * gezichtsherkenning
@@ -23,3 +23,7 @@ De Registrator registreert kinderen bij DJO
  * QR code tattoeage
   - permanent
 
+### gewonnen idee:
+
+* Naam intypen
+  - Grote lijst, zelfde namen, makkelijk verkeerde naam aantikken
