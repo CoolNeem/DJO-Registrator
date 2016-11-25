@@ -23,3 +23,7 @@ De Registrator registreert kinderen bij DJO
  * QR code tattoeage
   - permanent
 
+###gewonnen idee:
+
+* Naam intypen
+  - Grote lijst, zelfde namen, makkelijk verkeerde naam aantikken
